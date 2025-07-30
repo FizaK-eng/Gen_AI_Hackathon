@@ -21,8 +21,4 @@ Welcome to my Hackathon project!
 
 ---
 
-## 📬 Contact
-
-- 👩‍💻 Fiza Khalid  
-- 💼 [LinkedIn](https://www.linkedin.com/in/fiza-khalid-190116330/)  
 
